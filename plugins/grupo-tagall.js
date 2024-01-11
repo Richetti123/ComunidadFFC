@@ -6,10 +6,10 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
 let oi = `*@comunidad.freefirechile_ofc* ${pesan}`
-let teks = `*Bot FFC los invoca*\n\n${oi}\n*MENCIONES:*\n`
+let teks = `*La tía caro los llama*\n\n${oi}\n*MENCIONES:*\n`
 for (let mem of participants) {
-teks += `🇨🇱 @${mem.id.split('@')[0]}\n`}
-teks += `ComunidadFFC`
+teks += `🪐 @${mem.id.split('@')[0]}\n`}
+teks += `Bot de Tia Caro`
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
