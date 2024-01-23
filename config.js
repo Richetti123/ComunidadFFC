@@ -123,11 +123,11 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
 global.gt = "Bot de Tia Caro"
-global.yt = "https://www.instagram.com/comunidad.freefirechile_ofc"
-global.yt2 = "https://www.instagram.com/comunidad.freefirechile_ofc"
-global.ig = "https://www.instagram.com/comunidad.freefirechile_ofc"
-global.md = "https://www.instagram.com/comunidad.freefirechile_ofc"
-global.fb = "https://www.instagram.com/comunidad.freefirechile_ofc"
+global.yt = "https://www.instagram.com/ff.cxritooo"
+global.yt2 = "https://www.instagram.com/ff.cxritooo"
+global.ig = "https://www.instagram.com/ff.cxritooo"
+global.md = "https://www.instagram.com/ff.cxritooo"
+global.fb = "https://www.instagram.com/ff.cxritooo"
 
 global.nna = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //CANAL UPDATE
 global.nn2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //UPDATE
